@@ -1,0 +1,13 @@
+
+/******** Range Slider ********/
+.range-slider .range-bar {
+    -fx-background-color: grey;
+    -fx-opacity: 0.5;
+    -fx-cursor: hand;
+}
+
+.range-slider .low-thumb {
+}
+
+.range-slider .high-thumb {
+}
